@@ -68,6 +68,7 @@ a:active {
 }
 .project-links {
   font-size: 0.8rem;
+  margin-top: 5px;
 }
 .project-links > a:link,
 .project-links > a:visited,
